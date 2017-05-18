@@ -1,0 +1,14 @@
+<testsuites name="Mocha Tests">
+  <testsuite name="Books" tests="1" errors="0" failures="0" skipped="0" timestamp="2017-05-14T09:35:01" time="0.133">
+    <testcase classname="Books" name="it should POST a book" time="0.085">
+    </testcase>
+  </testsuite>
+  <testsuite name="Books /GET book" tests="1" errors="0" failures="0" skipped="0" timestamp="2017-05-14T09:35:02" time="0.022">
+    <testcase classname="Books /GET book" name="it should GET all the books" time="0.017">
+    </testcase>
+  </testsuite>
+  <testsuite name="Books /POST book" tests="1" errors="0" failures="0" skipped="0" timestamp="2017-05-14T09:35:02" time="0.016">
+    <testcase classname="Books /POST book" name="it should not POST a book without pages field" time="0.009">
+    </testcase>
+  </testsuite>
+</testsuites>
